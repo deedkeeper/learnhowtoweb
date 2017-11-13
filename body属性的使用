@@ -1,0 +1,20 @@
+<!--
+		程序名：body属性的使用
+		程序功能：同上
+		设计人员：YG11AC
+		设计时间：2017年11月13日21:06:04
+-->
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>body属性的使用</title>
+</head>
+
+<body>
+<body bgcolor=#003399 text =#FFFFFF link=#FFFFFF vlink="#660000" alink=66FF00>
+<comment>主题内容</comment>
+<p>&nbsp;&nbsp;&nbsp;Mozilla Firefox是mozilla基金会和开源团体共同开发的网页浏览器，软件下载URL：<a href="http://www.firefox.com.cn">火狐官方网站</a>
+下载界面入图6所示，下载软件安装包名为Firefox - lastest.exe,最新版本为(〃'▽'〃)，它长期更新，双击安装运行即可。</p>
+</body>
+</html>
